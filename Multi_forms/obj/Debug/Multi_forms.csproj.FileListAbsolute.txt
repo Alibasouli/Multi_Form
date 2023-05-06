@@ -10,3 +10,16 @@ C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.pdb
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Form1.resources
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe.config
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\bin\Debug\Multi_forms.pdb
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csprojAssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Form1.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Properties.Resources.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.sing_in.resources
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.exe
+C:\Users\Ali\Documents\GitHub\Multi_Form\Multi_forms\obj\Debug\Multi_forms.pdb
